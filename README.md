@@ -28,7 +28,7 @@
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; **JavaScript**
 
-<img height="32" width="32" src="https://www.clipartmax.com/png/full/288-2881446_image-result-for-golang-go-programming-language-logo.png" />&nbsp; **GO LANG**
+<img height="32" width="32" src="https://reactjs.org/logo-og.png" />&nbsp; **GO LANG**
 
 ## Database Systems📊
 
